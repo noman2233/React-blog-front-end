@@ -1,0 +1,11 @@
+.slider{
+    height: 40vh;
+}
+.slider h1{
+    font-size: 40px;
+    font-size: 40px;
+    max-width: 50vw;
+    text-align: center;
+    margin: 90px auto;
+    line-height: 60px;
+}

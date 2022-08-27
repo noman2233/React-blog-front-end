@@ -1,0 +1,23 @@
+.email{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 40px;
+}
+.subscribe_text{
+    text-align: center;
+    margin-top: 60px;
+}
+.email_input{
+    padding: 15px 20px;
+    width: 25vw;
+    font-size: 15px;
+}
+.email_btn{
+    padding:15px 20px ;
+    margin-left: 10px;
+    cursor: pointer;
+    background-color: pink;
+    color: black;
+    font-size: 18px;
+}

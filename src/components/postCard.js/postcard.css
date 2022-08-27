@@ -1,0 +1,29 @@
+.post_card{
+    display: flex;
+    flex-direction: column;
+    width: 526px;
+    margin: 20px 20px;
+}
+.post_img{
+    width: 526px;
+    height: 300px;
+    object-fit: cover;
+}
+.post_title a{
+    font-size: 25px;
+    cursor: pointer;
+    margin: 20px 0px;
+    text-decoration: none;
+    color: black;
+}
+.post_title a:hover{
+  color: rgb(255, 127, 148);
+}
+.post_body{
+    font-size:18px ;
+    letter-spacing: 1px;
+    margin: 20px 0px;
+}
+.author{
+    margin: 20px 0px;
+}
